@@ -1,0 +1,2 @@
+R,1,12,three,vip,1000
+AR,6,17,three,vip,3000

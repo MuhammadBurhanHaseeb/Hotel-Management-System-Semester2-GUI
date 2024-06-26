@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BHB_HotelMangementSystem.BL.availableRoom" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\availableRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.BL.CheckIn" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQQACEEEGABJATgCSgEkA0JAJAEAQAAQAACAEAAAgA=</HashCode>
+      <FileName>BL\CheckIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.BL.CheckOut">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\CheckOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.BL.discount" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAIAAgBAAAEAAAABAAEAAAAAAAAAAAACA=</HashCode>
+      <FileName>BL\discount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.BL.guest" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAABADgCAAAgAyAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\guest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.BL.Message" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAEBACA=</HashCode>
+      <FileName>BL\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.BL.Muser" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAACAAAAAAAAAAACAAAAAgAAQAAAAMAAAA=</HashCode>
+      <FileName>BL\Muser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.BL.Reservation">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Reservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.BL.room" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAACAEAAAAAAwAAQAMgAEAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.DL.CheckInDL" Collapsed="true">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAIAAIAAAACAAAAAAAAAAQAABAAAAA=</HashCode>
+      <FileName>DL\CheckInDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.DL.discountDL" Collapsed="true">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAIAAAABAAAAAAAAAAAAAQAAgAAAAI=</HashCode>
+      <FileName>DL\discountDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.DL.guestDL" Collapsed="true">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAACAAIBAAAABAAAAAAAAAAAAQQAAAAAAA=</HashCode>
+      <FileName>DL\guestDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.DL.MessageDL" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAQAAAAEQAAAQAAAAAAAA=</HashCode>
+      <FileName>DL\MessageDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.DL.MuserDL" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAAAAAAAAAAIAAAEAAAAAAAAAiAAACQACAAAgAA=</HashCode>
+      <FileName>DL\MuserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHB_HotelMangementSystem.DL.roomDL" Collapsed="true">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAIAAAAAAAAAAAAIAAAACAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>DL\roomDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
